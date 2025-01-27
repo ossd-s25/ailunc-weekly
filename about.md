@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there, hope we all enjoy OSSD this semester!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+I'm quite interested in techonology, and video games as well.
