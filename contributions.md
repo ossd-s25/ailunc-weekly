@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Jan 29   | https://github.com/ossd-s25/Zephyr271828-weekly/issues/1    | classmate's blog   |   Fixed "readmore" bug.    |
-| Jan 29   | https://github.com/joannakl/ossd/issues/136    |  course website   |  Reported missing image.    |
-| Jan 31   | https://www.openstreetmap.org/changeset/161995833#map=19/40.729345/-73.999584    |  OpenStreetMap   | Contributed details of a block.     |
+| Jan 29   | [Fixed "readmore" bug](https://github.com/ossd-s25/Zephyr271828-weekly/issues/1) | Classmate's blog | Resolved an issue of "read more" placement. |
+| Jan 29   | [Reported missing image](https://github.com/joannakl/ossd/issues/136) | Course website | Reported about missing images. |
+| Jan 31   | [Updated OpenStreetMap details](https://www.openstreetmap.org/changeset/161995833#map=19/40.729345/-73.999584) | OpenStreetMap | Added and refined details of a specific block. |
