@@ -26,3 +26,5 @@ Replace the first row with your own contribution.
 | Jan 29   | [Reported missing image](https://github.com/joannakl/ossd/issues/136) | Course website | Reported about missing images. |
 | Jan 31   | [Updated OpenStreetMap details](https://www.openstreetmap.org/changeset/161995833#map=19/40.729345/-73.999584) | OpenStreetMap | Added and refined details of a specific block. |
 | Feb 06   | [Fixed bugs on Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Ailunccc) | Wikipedia | Fixed some typos & deleted invalid links. |
+| Feb 10   | [Updated OpenStreetMap details](https://www.openstreetmap.org/changeset/162361687#map=19/40.735576/-73.992150
+) | OpenStreetMap | Added and refined details of a specific block. |
