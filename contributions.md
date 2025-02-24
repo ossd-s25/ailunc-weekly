@@ -28,3 +28,4 @@ Replace the first row with your own contribution.
 | Feb 06   | [Fixed bugs on Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Ailunccc) | Wikipedia | Fixed some typos & deleted invalid links. |
 | Feb 10   | [Updated OpenStreetMap details](https://www.openstreetmap.org/changeset/162361687#map=19/40.735576/-73.992150) | OpenStreetMap | Added and refined details of a specific block. |
 | Feb 18   | [Code of Conduct Issue](https://github.com/zhaozh10/ChatCAD/issues/13) | Github Project | Added Code of Conduct for this project. |
+| Feb 23   | [Fixed Markdown Format](https://github.com/ossd-s25/Harry-Yang0518-weekly/issues/1) | Classmate's blog | Resolved an issue of markdown format bug. |
