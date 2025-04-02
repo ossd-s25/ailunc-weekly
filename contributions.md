@@ -29,3 +29,5 @@ Replace the first row with your own contribution.
 | Feb 10   | [Updated OpenStreetMap details](https://www.openstreetmap.org/changeset/162361687#map=19/40.735576/-73.992150) | OpenStreetMap | Added and refined details of a specific block. |
 | Feb 18   | [Code of Conduct Issue](https://github.com/zhaozh10/ChatCAD/issues/13) | Github Project | Added Code of Conduct for this project. |
 | Feb 23   | [Fixed Markdown Format](https://github.com/ossd-s25/Harry-Yang0518-weekly/issues/1) | Classmate's blog | Resolved an issue of markdown format bug. |
+| Mar 31   | [Created Pull Request](https://github.com/bevacqua/dragula/pull/712) | Github Project | Added a new feature for this project. |
+| Mar 31   | [Answered an issue](https://github.com/single-spa/single-spa/issues/1298) | Github Project | Provided a possible solution to a coding problem. |
