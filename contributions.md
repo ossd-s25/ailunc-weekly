@@ -31,3 +31,5 @@ Replace the first row with your own contribution.
 | Feb 23   | [Fixed Markdown Format](https://github.com/ossd-s25/Harry-Yang0518-weekly/issues/1) | Classmate's blog | Resolved an issue of markdown format bug. |
 | Mar 31   | [Created Pull Request](https://github.com/bevacqua/dragula/pull/712) | Github Project | Added a new feature for this project. |
 | Mar 31   | [Answered an issue](https://github.com/single-spa/single-spa/issues/1298) | Github Project | Provided a possible solution to a coding problem. |
+| Apr 02   | [Answered an issue](https://github.com/clauderic/react-sortable-hoc/issues/887) | Github Project | Provided a possible solution to a coding problem. |
+| Apr 02   | [Answered an issue](https://github.com/arc53/DocsGPT/issues/1717) | Github Project | Provided a possible solution to a coding problem. |
