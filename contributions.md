@@ -33,3 +33,5 @@ Replace the first row with your own contribution.
 | Mar 31   | [Answered an issue](https://github.com/single-spa/single-spa/issues/1298) | Github Project | Provided a possible solution to a coding problem. |
 | Apr 02   | [Answered an issue](https://github.com/clauderic/react-sortable-hoc/issues/887) | Github Project | Provided a possible solution to a coding problem. |
 | Apr 02   | [Answered an issue](https://github.com/arc53/DocsGPT/issues/1717) | Github Project | Provided a possible solution to a coding problem. |
+| Apr 10   | [Answered an issue](https://github.com/Tencent/Hippy/issues/4236) | Github Project | Provided a possible solution to a coding problem. |
+| Apr 10   | [Answered an issue](https://github.com/expo/expo/issues/36079) | Github Project | Provided a possible solution to a coding problem. |
