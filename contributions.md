@@ -35,3 +35,5 @@ Replace the first row with your own contribution.
 | Apr 02   | [Answered an issue](https://github.com/arc53/DocsGPT/issues/1717) | Github Project | Provided a possible solution to a coding problem. |
 | Apr 10   | [Answered an issue](https://github.com/Tencent/Hippy/issues/4236) | Github Project | Provided a possible solution to a coding problem. |
 | Apr 10   | [Answered an issue](https://github.com/expo/expo/issues/36079) | Github Project | Provided a possible solution to a coding problem. |
+| Apr 14   | [Answered an issue](https://github.com/vercel/ai-chatbot/issues/925) | Github Project | Provided a possible solution to a coding problem. |
+| Apr 16   | [Answered an issue](https://github.com/Zackriya-Solutions/meeting-minutes/issues/64) | Github Project | Provided a possible solution to a coding problem. |
