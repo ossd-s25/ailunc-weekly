@@ -37,3 +37,6 @@ Replace the first row with your own contribution.
 | Apr 10   | [Answered an issue](https://github.com/expo/expo/issues/36079) | Github Project | Provided a possible solution to a coding problem. |
 | Apr 14   | [Answered an issue](https://github.com/vercel/ai-chatbot/issues/925) | Github Project | Provided a possible solution to a coding problem. |
 | Apr 16   | [Answered an issue](https://github.com/Zackriya-Solutions/meeting-minutes/issues/64) | Github Project | Provided a possible solution to a coding problem. |
+| May 05   | [Created Pull Request](https://github.com/LadybirdBrowser/ladybird/pull/4610) | Github Project | Fixed a bug for this project. |
+| May 06   | [Answered an issue](https://github.com/Stirling-Tools/Stirling-PDF/issues/3477) | Github Project | Provided a possible solution to a coding problem. |
+| May 06   | [Created Pull Request](https://github.com/awslabs/agent-squad/pull/324) | Github Project | New feature: Add Chroma Retrieval for this github project. |
